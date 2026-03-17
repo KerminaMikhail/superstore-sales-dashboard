@@ -103,3 +103,7 @@ dashboard/superstore_dashboard.pbix
 
 **Kermina Mikhail**
 Aspiring Data Analyst
+=======
+# superstore-sales-dashboard
+Sales analytics dashboard using Python ETL and Power BI
+>>>>>>> 215c22c25c7ceab81ee2b769accf602d2b024e25
