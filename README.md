@@ -37,6 +37,7 @@ This project demonstrates a simple **data analytics pipeline**:
 ## Dashboard Preview
 
 images/dashboard_preview.png
+
 ---
 
 ## Key Insights
